@@ -1,72 +1,84 @@
-# 👋 Hi, I'm **Nandika Kaweesha Fernando**
+# Nandika Kaweesha Fernando
 
-## 🔴 MERN & MEAN Stack Developer | Frontend Developer  
-📍 Sri Lanka
+**Frontend-Focused Full Stack Developer (MERN & MEAN)**
+Colombo, Western Province, Sri Lanka
 
----
 
-## 🧩 About Me
 
-I am a **MERN & MEAN Stack Developer** and **Frontend Developer** focused on building modern, scalable, and user-friendly web applications.
+## Summary
 
-I enjoy working with JavaScript frameworks, creating clean UI designs, and developing real-world full-stack solutions with strong performance and usability.
+Frontend-focused Full Stack Developer specializing in the MERN stack, with strong experience in building responsive and user-friendly web applications using React. Familiar with Angular and currently expanding expertise in MEAN stack development.
 
----
+Experienced in integrating RESTful APIs, implementing secure authentication using JWT, and developing scalable backend services with Node.js, Express.js, Spring Boot, MongoDB, and MySQL. Passionate about clean UI/UX design, performance optimization, and mobile-first development.
 
-## 🛠️ Tech Stack
 
-### 🔴 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Angular  
-- Tailwind CSS  
-- Bootstrap  
 
-### 🔴 Backend
-- Node.js  
-- Express.js  
+## Technical Skills
 
-### 🔴 Databases
-- MongoDB  
-- MySQL  
+### Frontend Development
 
-### 🔴 Tools & Others
-- Git & GitHub  
-- REST APIs  
-- Figma (UI/UX Design)
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Angular
+* Tailwind CSS
+* Bootstrap
 
----
+### Backend Development
 
-## 📌 What I Do
+* Node.js
+* Express.js
+* Spring Boot
 
-- Build **MERN & MEAN stack applications**
-- Develop **responsive frontend interfaces**
-- Integrate **RESTful APIs**
-- Convert UI/UX designs into functional web apps
-- Write clean, maintainable, and scalable code
+### Database Management
 
----
+* MongoDB
+* MySQL
 
-## 🔗 Connect With Me
+### Tools and Technologies
 
-- 📧 Email: **nandikakaweesha4005@gmail.com**
-- 💼 LinkedIn: **Nandika Kaweesha**
-- 🎨 Behance: **Nandika Kaweesha**
-- 🧑‍💻 CodePen: **Nandika Kaweesha**
+* Git and GitHub
+* REST API Development and Integration
+* JWT Authentication
+* Figma (UI/UX Design)
 
----
 
-## 🎯 Career Goal
 
-To grow as a **professional full-stack developer** and contribute to impactful, real-world software projects while continuously improving my technical and problem-solving skills.
+## Core Competencies
 
----
+* Full-stack application development using MERN and MEAN stacks
+* Responsive and user-centered frontend design
+* RESTful API design and integration
+* Secure authentication and authorization (JWT)
+* Clean, maintainable, and scalable coding practices
+* Performance optimization and mobile-first development
 
-## 🐍 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
----
+## Contact
+
+**Phone:** +94 78 171 0325
+**Email:** [nandikakaweesha4005@gmail.com](mailto:nandikakaweesha4005@gmail.com)
+
+**GitHub:**
+[https://github.com/NandikaKW](https://github.com/NandikaKW)
+
+**LinkedIn:**
+[https://www.linkedin.com/in/nandika-kaweesha-7b1961321/](https://www.linkedin.com/in/nandika-kaweesha-7b1961321/)
+
+**Location:**
+Colombo, Western Province, Sri Lanka
+
+
+
+## Career Objective
+
+To grow as a professional full-stack developer by contributing to impactful software solutions while continuously improving technical expertise and problem-solving capabilities.
+
+
+
+## Contribution Activity
+
+![GitHub Contribution Graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
