@@ -1,17 +1,15 @@
 # Nandika Kaweesha Fernando
 
-**Frontend-Focused Full Stack Developer (MERN & MEAN)**
+**Full Stack Developer (MERN, MEAN & Modern Web Technologies)**
 Colombo, Western Province, Sri Lanka
-
-
 
 ## Summary
 
-Frontend-focused Full Stack Developer specializing in the MERN stack, with strong experience in building responsive and user-friendly web applications using React. Familiar with Angular and currently expanding expertise in MEAN stack development.
+Full Stack Developer with experience in building responsive, scalable, and user-friendly web applications using modern frontend and backend technologies.
 
-Experienced in integrating RESTful APIs, implementing secure authentication using JWT, and developing scalable backend services with Node.js, Express.js, Spring Boot, MongoDB, and MySQL. Passionate about clean UI/UX design, performance optimization, and mobile-first development.
+Skilled in developing applications with React, Angular, Next.js, Node.js, Express.js, NestJS, Spring Boot, PHP, MongoDB, and MySQL. Experienced in RESTful API development, JWT authentication, database management, and responsive UI design.
 
-
+Passionate about creating clean, maintainable software solutions while continuously learning new technologies and improving problem-solving skills.
 
 ## Technical Skills
 
@@ -21,6 +19,7 @@ Experienced in integrating RESTful APIs, implementing secure authentication usin
 * CSS3
 * JavaScript (ES6+)
 * React.js
+* Next.js
 * Angular
 * Tailwind CSS
 * Bootstrap
@@ -29,56 +28,48 @@ Experienced in integrating RESTful APIs, implementing secure authentication usin
 
 * Node.js
 * Express.js
+* NestJS
 * Spring Boot
+* PHP
 
 ### Database Management
 
 * MongoDB
 * MySQL
 
-### Tools and Technologies
+### Tools & Technologies
 
-* Git and GitHub
-* REST API Development and Integration
+* Git & GitHub
+* REST API Development & Integration
 * JWT Authentication
 * Figma (UI/UX Design)
-
-
+* Postman
 
 ## Core Competencies
 
-* Full-stack application development using MERN and MEAN stacks
-* Responsive and user-centered frontend design
-* RESTful API design and integration
-* Secure authentication and authorization (JWT)
-* Clean, maintainable, and scalable coding practices
-* Performance optimization and mobile-first development
-
-
+* Full Stack Web Application Development
+* MERN Stack Development
+* MEAN Stack Development
+* RESTful API Design & Integration
+* Authentication & Authorization (JWT)
+* Database Design & Management
+* Responsive Web Design
+* Mobile-First Development
+* Clean & Maintainable Code Practices
+* Performance Optimization
 
 ## Contact
 
 **Phone:** +94 78 171 0325
+
 **Email:** [nandikakaweesha4005@gmail.com](mailto:nandikakaweesha4005@gmail.com)
 
-**GitHub:**
-[https://github.com/NandikaKW](https://github.com/NandikaKW)
+**GitHub:** https://github.com/NandikaKW
 
-**LinkedIn:**
-[https://www.linkedin.com/in/nandika-kaweesha-7b1961321/](https://www.linkedin.com/in/nandika-kaweesha-7b1961321/)
+**LinkedIn:** https://www.linkedin.com/in/nandika-kaweesha-7b1961321/
 
-**Location:**
-Colombo, Western Province, Sri Lanka
-
-
+**Location:** Colombo, Western Province, Sri Lanka
 
 ## Career Objective
 
-To grow as a professional full-stack developer by contributing to impactful software solutions while continuously improving technical expertise and problem-solving capabilities.
-
-
-
-## Contribution Activity
-
-![GitHub Contribution Graph](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
+To obtain a Software Engineering opportunity where I can contribute to real-world software projects, enhance my technical expertise, and grow as a professional full-stack developer while delivering high-quality software solutions.
